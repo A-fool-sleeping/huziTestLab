@@ -2,6 +2,6 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("main!!\n");
+    // @TODO: print a sentence you want
+    printf("solved!\n");
 }
